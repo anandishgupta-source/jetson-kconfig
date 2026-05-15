@@ -13,7 +13,7 @@ pip3 install jetson-kconfig
 Or from source:
 
 ```bash
-git clone https://github.com/yourname/jetson-kconfig
+git clone https://github.com/anandishgupta-source/jetson-kconfig
 cd jetson-kconfig
 pip3 install .
 ```
